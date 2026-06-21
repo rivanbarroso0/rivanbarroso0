@@ -25,7 +25,7 @@
 
 ### 🚀 Projetos em destaque
 
-> Os projetos abaixo foram desenvolvidos **em dupla**, com divisão de tarefas entre lógica de back-end, banco de dados e funcionalidades do jogo/aplicação.
+> Os projetos abaixo foram desenvolvidos com divisão de tarefas entre lógica de back-end, banco de dados e funcionalidades do jogo/aplicação.
 
 **⚽ [Culture Soccer](https://github.com/rivanbarroso0/Culture-Soccer)**
 Jogo local para dois jogadores, em **Python + Pygame**, que une perguntas de cultura geral a cobranças de pênalti. Persistência de álbum de figurinhas com **SQLite**.

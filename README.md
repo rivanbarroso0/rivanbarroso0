@@ -1,57 +1,65 @@
-<h1 align="center">Rivan Barroso</h1>
+<h1>👨‍💻 Rivan Barroso</h1>
 
-<p align="center">
-  Estudante de <b>Sistemas de Informação (UFRPE)</b><br/>
-  Foco em <b>Python</b>, lógica de programação e desenvolvimento
+<p>
+  <img src="https://img.shields.io/badge/Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o-1f6feb?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rivanbarroso0&style=flat-square&color=blueviolet" alt="profile views"/>
-</p>
+Me chamo Rivan Barroso, sou estudante de **Sistemas de Informação na UFRPE**. Tenho focado meus estudos em **Python**, lógica de programação e desenvolvimento de projetos em dupla — de jogos a aplicações web com integração de IA.
 
----
-
-### 🛠️ Tecnologias
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pygame-006400?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/github/followers/rivanbarroso0?label=SEGUIDORES&style=for-the-badge&color=1f6feb&labelColor=0d1117"/>
+  <img src="https://img.shields.io/github/stars/rivanbarroso0?label=ESTRELAS&style=for-the-badge&color=f1c40f&labelColor=0d1117"/>
+  <img src="https://komarev.com/ghpvc/?username=rivanbarroso0&label=VIEWS&style=for-the-badge&color=2ecc71&labelColor=0d1117"/>
 </p>
 
 ---
 
-### 🚀 Projetos em destaque
+## 🤖 Linguagens e Tecnologias
 
-> Os projetos abaixo foram desenvolvidos com divisão de tarefas entre lógica de back-end, banco de dados e funcionalidades do jogo/aplicação.
-
-**⚽ [Culture Soccer](https://github.com/rivanbarroso0/Culture-Soccer)**
-Jogo local para dois jogadores, em **Python + Pygame**, que une perguntas de cultura geral a cobranças de pênalti. Persistência de álbum de figurinhas com **SQLite**.
-
-**🎓 [CoursePath](https://github.com/rivanbarroso0/Coursepath_repository)**
-Plataforma web (**Python + Flask + SQLite**) que centraliza conteúdos acadêmicos da UFRPE, com geração de resumos e quizzes via IA (API Gemini).
-
-**🩺 [CalcEpi Pneumonia](https://github.com/rivanbarroso0/calculadora-epidemica-pneumonia)**
-Calculadora epidemiológica interativa (modelo matemático SEIR) para pneumonia bacteriana e viral.
-
-**🐍 [Python — Curso em Vídeo](https://github.com/rivanbarroso0/PYTHON-curso-em-video)**
-Exercícios de lógica de programação resolvidos durante meus estudos de Python.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rivanbarroso0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivanbarroso0&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sqlite,flask,git,vscode" />
 </p>
 
 ---
 
-### 📫 Contato
+## 📊 Estatísticas
 
-<p align="center">
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### Estatísticas do GitHub de Rivan Barroso
+
+<img src="https://github-readme-stats.vercel.app/api?username=rivanbarroso0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+</td>
+<td valign="top" width="45%">
+
+### Tecnologias
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivanbarroso0&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projetos em destaque
+
+> Desenvolvidos **em dupla**, com divisão de tarefas entre lógica de back-end, banco de dados e funcionalidades.
+
+| Projeto | Descrição |
+|---|---|
+| ⚽ **[Culture Soccer](https://github.com/rivanbarroso0/Culture-Soccer)** | Jogo local 2 jogadores em **Python + Pygame**, misturando perguntas de cultura geral com cobranças de pênalti. Álbum de figurinhas persistido em **SQLite**. |
+| 🎓 **[CoursePath](https://github.com/rivanbarroso0/Coursepath_repository)** | Plataforma web (**Python + Flask + SQLite**) que centraliza conteúdos acadêmicos da UFRPE, com resumos e quizzes gerados por IA. |
+| 🩺 **[CalcEpi Pneumonia](https://github.com/rivanbarroso0/calculadora-epidemica-pneumonia)** | Calculadora epidemiológica interativa baseada no modelo SEIR, para pneumonia bacteriana e viral. |
+| 🐍 **[Python — Curso em Vídeo](https://github.com/rivanbarroso0/PYTHON-curso-em-video)** | Exercícios de lógica de programação resolvidos durante meus estudos de Python. |
+
+---
+
+## 📫 Contato
+
+<p>
   <a href="https://github.com/rivanbarroso0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>

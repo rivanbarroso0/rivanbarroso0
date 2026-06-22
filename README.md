@@ -17,7 +17,7 @@ Me chamo Rivan Barroso, sou estudante de **Sistemas de Informação na UFRPE**. 
 ## 🤖 Linguagens e Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sqlite,flask,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,sqlite,flask,git,vscode" />
 </p>
 
 ---

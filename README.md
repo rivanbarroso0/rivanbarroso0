@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o-1f6feb?style=for-the-badge"/>
 </p>
 
-Me chamo Rivan Barroso, sou estudante de **Sistemas de Informação na UFRPE**. Tenho focado meus estudos em **Python**, lógica de programação e desenvolvimento de projetos em dupla — de jogos a aplicações web com integração de IA.
+Me chamo Rivan Barroso, sou estudante de **Sistemas de Informação na UFRPE**. Tenho focado meus estudos em **Python**, lógica de programação e desenvolvimento de projetos — de jogos a aplicações web com integração de IA.
 
 <p>
   <img src="https://img.shields.io/github/followers/rivanbarroso0?label=SEGUIDORES&style=for-the-badge&color=1f6feb&labelColor=0d1117"/>

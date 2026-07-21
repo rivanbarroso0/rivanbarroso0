@@ -22,18 +22,6 @@ Me chamo Rivan Barroso, sou estudante de **Sistemas de Informação na UFRPE**. 
 
 ---
 
-## 📊 Estatísticas
-
-<table>
-<tr>
-<td valign="top" width="55%">
-
-### Estatísticas do GitHub de Rivan Barroso
-
-
-
-</td>
-<td valign="top" width="45%">
 
 ### Tecnologias
 

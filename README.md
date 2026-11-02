@@ -41,8 +41,7 @@ Me chamo Rivan Barroso, sou estudante de **Sistemas de Informação na UFRPE**. 
 |---|---|
 | ⚽ **[Culture Soccer](https://github.com/rivanbarroso0/Culture-Soccer)** | Jogo local 2 jogadores em **Python + Pygame**, misturando perguntas de cultura geral com cobranças de pênalti. Álbum de figurinhas persistido em **SQLite**. |
 | 🎓 **[CoursePath](https://github.com/rivanbarroso0/Coursepath_repository)** | Plataforma web (**Python + Flask + SQLite**) que centraliza conteúdos acadêmicos da UFRPE, com resumos e quizzes gerados por IA. |
-| 🩺 **[CalcEpi Pneumonia](https://github.com/rivanbarroso0/calculadora-epidemica-pneumonia)** | Calculadora epidemiológica interativa baseada no modelo SEIR, para pneumonia bacteriana e viral. |
-| 🐍 **[Python — Curso em Vídeo](https://github.com/rivanbarroso0/PYTHON-curso-em-video)** | Exercícios de lógica de programação resolvidos durante meus estudos de Python. |
+| 🩺 **[CalcEpi Pneumonia](https://github.com/rivanbarroso0/calculadora-epidemica-pneumonia)** | Calculadora epidemiológica interativa baseada no modelo SEIR, para pneumonia bacteriana e viral. 
 
 ---
 
